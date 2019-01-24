@@ -1,8 +1,19 @@
 .one {
-  width: 300px;
+  width: 150px;
   float: left;
 }
 
 img {
   width: 150px;
+  float: left;
+}
+
+.navi {
+  float: left;
+  border: 2px solid green;
+  padding: 4px;
+}
+
+.panel panel-info {
+  margin-left: 10px;
 }
